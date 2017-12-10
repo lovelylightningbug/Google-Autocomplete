@@ -11,7 +11,7 @@
 <body>
     <div class="container">
         <div class="header">
-            <img src="images/jiuzhang.png" />
+            <img src="images/xiaoxin.jpg" />
         </div><!-- header -->
         <h1 class="main_title">Autocomplete using PHP/Ajax and jQuery</h1>
         <div class="content">
